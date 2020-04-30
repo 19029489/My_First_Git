@@ -8,4 +8,8 @@
     <string name="pass">Password:</string>
     <string name="enter">login</string>
     <string name="nah">cancel</string>
+    <string name="fn">Full Name</string>
+    <string name="sch">School</string>
+    <string name="ID">Student ID</string>
+    <string name="num">Phone</string>
 </resources>
