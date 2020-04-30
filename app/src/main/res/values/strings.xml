@@ -1,7 +1,11 @@
 <resources>
-    <string name="app_name">Demo My Second App</string>
+    <string name="app_name">Demo My Login App</string>
     <string name="welcome">Welcome to Android!</string>
     <string name="text">Large Text</string>
     <string name="first">Button 1</string>
     <string name="second">Button 2</string>
+    <string name="user">Name:</string>
+    <string name="pass">Password:</string>
+    <string name="enter">login</string>
+    <string name="nah">cancel</string>
 </resources>
